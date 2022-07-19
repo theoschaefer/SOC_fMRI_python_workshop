@@ -1,4 +1,5 @@
-# fMRI preprocessing python workshop (School of Cognition academy 2022)
+# fMRI preprocessing python workshop
+## School of Cognition academy 2022
 
 ### Welcome
 
