@@ -11,6 +11,6 @@ Please clone this repository to your jupyter-hub.
 
 1. Go to the jupyter hub and open a terminal at the right upper corner: `New` -> `Terminal`
 
-2. Type:`git clone https://gitlab.gwdg.de/frauke.beyer/soc_coding_tutorials.git`
+2. Type:`git@github.com:theoschaefer/SOC_fMRI_python_workshop.git`
 
 3. You have copied the notebooks and data into your jupyter hub and are ready to go. 
