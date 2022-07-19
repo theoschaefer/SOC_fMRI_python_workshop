@@ -2,8 +2,8 @@
 
 ### Welcome
 
-In this repository, you can find the material and data for the School Of Cognition workshop on functional MRI preprocessing.  
-The workshop is based on a [2021 tutorial](https://gitlab-ce.gwdg.de/frauke.beyer/soc_coding_tutorials) by Frauke Beyer and was updated by [Alexander Nitsch](https://github.com/nitschalex) and [Theo Schäfer](https://github.com/theoschaefer). 
+In this repository, you can find the material and data for the School Of Cognition workshop 2022 on functional MRI preprocessing.  
+The workshop is based on a [2021 tutorial](https://gitlab-ce.gwdg.de/frauke.beyer/soc_coding_tutorials) by [Frauke Beyer](https://gitlab-ce.gwdg.de/frauke.beyer) and was updated by [Alexander Nitsch](https://github.com/nitschalex) and [Theo Schäfer](https://github.com/theoschaefer). 
 
 This repository contains a Jupyter Notebook which describes all the steps in detail. 
 
